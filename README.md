@@ -1,5 +1,5 @@
 
-# Object Tracking with Servo Control
+# Object Tracking with Servo Motors On jetson nano 
 
 This code demonstrates object tracking using computer vision techniques and controls servo motors to track the detected object's movement. It uses OpenCV for image processing and the Adafruit ServoKit library for controlling the servos.
 
